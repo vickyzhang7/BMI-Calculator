@@ -14,6 +14,3 @@ $ git clone https://github.com/TarokhDev2020/BMI-Calculator-for-iOS.git
 <img src="https://user-images.githubusercontent.com/72879576/96346359-3e421380-10a8-11eb-8fd4-f5cb4c73bd10.png" alt="BMI Calculator for iOS" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96346363-4601b800-10a8-11eb-99d5-5b420757255d.png" alt="BMI Calculator for iOS" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96346373-5023b680-10a8-11eb-8c2b-436c67ad0796.png" alt="BMI Calculator for iOS" width="250"/>
-
-## MIT License ##
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
